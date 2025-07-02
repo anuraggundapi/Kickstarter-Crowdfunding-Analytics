@@ -1,7 +1,4 @@
 # Kickstarter-Crowdfunding-Analytics
-
-Here's a complete **README.md** file for your **Kickstarter Crowdfunding Data Analytics Project** that you can directly add to your GitHub repository. It includes sections on project overview, objectives, tools used, data processing, KPIs, challenges, and insights.
-
 ---
 
 # 🧠 Kickstarter Crowdfunding Data Analytics Project
