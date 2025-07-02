@@ -1,6 +1,3 @@
-# Kickstarter-Crowdfunding-Analytics
----
-
 # 🧠 Kickstarter Crowdfunding Data Analytics Project
 
 ## 📌 Overview
